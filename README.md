@@ -124,6 +124,6 @@ And last, try diffrent kind of models and compare the results and time.
 As George E. P. Box said: “all models are wrong, but some are useful”.
 </p>
 
-  
+  You can Also check my project on kaggle <a href="https://www.kaggle.com/code/shashvats20/bank-telemarketing-analysis"><b>"Kaggle"</b></a>
 </body>
 </html>
