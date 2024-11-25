@@ -5,7 +5,7 @@
 <body>
 
 
-<h2>Bank TeleMarketing OPtimization </h2>
+<h2>Bank TeleMarketing Optimization </h2>
 
 
 <small><p>
