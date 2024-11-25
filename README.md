@@ -102,7 +102,7 @@ In our case the models with parameter adjustment give some slight improvement le
 <p align="center"><a href="https://github.com/RistovaIvona/BankClassification/commit/000a3f1e33a793d9aca8660065f7c13883d67910">
 <img width="40%" height="40%" src="https://github.com/RistovaIvona/BankClassification/blob/master/documentation/classification_report.PNG"></a></p>
 
-:star: To see all the models that we have tried please read our file <a href="https://github.com/RistovaIvona/BankClassification/blob/master/Models.ipynb"><b>"Models"</b></a>.
+:star: To see all the models that we have tried please read our file <a href="https://github.com/shashvat-singham/Bank-Telemarketing-ML-Project/blob/main/Models.ipynb"><b>"Models"</b></a>.
 
 ## Conclusions and recommendations for future research
 
